@@ -1,0 +1,68 @@
+body { 
+    background-color: rgb(191, 255, 192); 
+  } 
+  nav { 
+    display: flex; 
+    align-items: center; 
+  } 
+   
+  div { 
+    width: 400px; 
+    margin-left: 30px; 
+    font-size: 30px; 
+    font-weight: bold; 
+  } 
+  ul { 
+    display: flex; 
+    justify-content: space-between; 
+    list-style: none; 
+    width: 30%; 
+  } 
+  .basket { 
+    width: 30px; 
+    height: 30px; 
+    margin-left: 100px; 
+  } 
+  .login { 
+    background-color: rgb(191, 255, 192); 
+    border: 2px solid black; 
+    margin-left: 100px; 
+    border-radius: 3px; 
+    width: 100px; 
+    height: 30px; 
+  } 
+  p { 
+    line-height: 50px; 
+    color: rgb(52, 92, 52); 
+    font-size: 20px; 
+    width: 350px; 
+    margin-left: 50px; 
+  } 
+  .rivo { 
+    color: rgb(52, 92, 52); 
+    margin-left: 110px; 
+  } 
+  .dis { 
+    color: rgb(52, 92, 52); 
+    margin-left: 80px; 
+    margin-top: 100px; 
+  } 
+  .E { 
+    background-color: rgb(52, 92, 52); 
+    border: 2px solid rgb(52, 92, 52); 
+    margin-left: 50px; 
+    border-radius: 3px; 
+    width: 160px; 
+    height: 40px; 
+    color: white; 
+  } 
+  section { 
+    display: flex; 
+  } 
+  .rasm { 
+    width: 400px; 
+    height: 500px; 
+    margin-top: 90px; 
+    margin-left: 350px; 
+  }
+  
